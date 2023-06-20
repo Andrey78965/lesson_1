@@ -1,4 +1,4 @@
-def strcount(data):
+'''def strcount(data):
     for sym in set(data):
         count = 0
         for el in data:
@@ -30,4 +30,14 @@ def strcount(data):
    for sym, count in counter.items():
        print(sym, count)
 
-strcount('abbbds')
+strcount('abbbds')'''
+
+str = 'лепсспел'.lower()
+def order(o):
+   i = ''.join(reversed(o))
+   if i == str:
+    print(True)
+   else:
+    print(False)
+order(str)
+
