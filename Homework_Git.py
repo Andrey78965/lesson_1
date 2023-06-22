@@ -11,5 +11,5 @@ def order(o):
         print(False)
 order('лепсспел')
 order('helloworld')
-print(order.__doc__)
+
 
