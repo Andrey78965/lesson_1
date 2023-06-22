@@ -9,7 +9,6 @@ def order(o):
         print(True)
     else:
         print(False)
-
 order('лепсспел')
 order('helloworld')
 
