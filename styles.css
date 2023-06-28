@@ -1,0 +1,45 @@
+h1 {
+    background: orange;
+}
+
+.p1{
+    background: orange;
+    font-size: 32pt;
+    color: green;
+}
+.p2{
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 80px;
+    padding-left:40px
+}
+.p3{
+    font-weight: 900;
+    font-size: 20px;
+    font-family: Courier New
+}
+.p4{
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: green 2px 1px
+
+
+}
+
+'''
+backround - задний фон
+font-size - размер шрифта
+font-weight - жирность шрифта (100 до 900 вкл)
+font-family - стиль шрифта
+color - цвет шрифта
+border - рамка вокруг элементаб, 10px - толщина рамки, solid(непрерывистая линия) - тип линии
+border-radius - закругление рамки
+margin - внешние отступы
+pading - внутренние отступы
+bottom - низ
+left - лево
+right - право
+top - вверх
+'''
