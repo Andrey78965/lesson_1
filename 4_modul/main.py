@@ -30,7 +30,7 @@ def strcount(data):
    for sym, count in counter.items():
        print(sym, count)
 
-strcount('abbbds')'''
+strcount('abbbds')rm -rf .git'''
 
 str = 'лепсспел'.lower()
 def order(o):
@@ -40,4 +40,5 @@ def order(o):
    else:
     print(False)
 order(str)
+
 
