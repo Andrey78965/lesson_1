@@ -22,4 +22,3 @@ urlpatterns = [
     path('', include('app_advertisements.urls')),
     path('lesson_4/', include('app_lesson_4.urls')),
 ]
-#http://127.0.0.1/lesson_4.
